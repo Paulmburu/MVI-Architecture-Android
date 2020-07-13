@@ -14,4 +14,5 @@ A step to step guide for implementing android MVI (Model View Intent) Architectu
 
 ## credits
 [Shwetha Vasudev](https://blog.mindorks.com/user/profile/id/17597)
+
 [Mindorks](https://mindorks.com/) - A complete guide for learning Android App development
