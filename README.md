@@ -10,3 +10,8 @@ A step to step guide for implementing android MVI (Model View Intent) Architectu
 * [ ] - Create Interfaces for the classes wherever required.
 * [ ] - Take advantage of Android KTX - Kotlin Extensions.
 * [ ] - Write Unit-Test
+
+
+## credits
+[Shwetha Vasudev](https://blog.mindorks.com/user/profile/id/17597)
+[Mindorks](https://mindorks.com/) - A complete guide for learning Android App development
